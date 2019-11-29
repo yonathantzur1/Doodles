@@ -16,7 +16,7 @@ lr = 0.001
 momentum = 0.9
 
 main_dir = "/home/yonathantzur1/doodle/"
-train_dir = "xception/sixth/"
+train_dir = "xception/first/"
 
 train_data_dir = main_dir + "dataset/train/"
 validation_data_dir = main_dir + "dataset/validation/"
