@@ -106,3 +106,4 @@ venv.bak/
 dataset
 ndjson
 .idea
+model.h5
